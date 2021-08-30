@@ -7,17 +7,24 @@
           width: 200px;
 }
 
+/* menu-border */
+
+/* .m-border{
+    border: 1px solid rgba(172, 171, 171, 0.336);
+} */
 
 .menu li a{
            text-decoration: none;
            color: black;
            display: inline-block;
+
            
 }
 
 .menu li{
     display: inline-block;
     padding: 20px;
+    border: 1px solid rgba(172, 171, 171, 0.336);
 }
 
 .first-blog{
@@ -76,3 +83,15 @@
     margin-top: 5px;
 
  }
+
+
+ .sec1-blog a{
+     text-decoration: none;
+     height: 150px;
+     width: 25%;
+
+
+ }
+ .sec2-blog{}
+ .sec3-blog{}
+ .sec4-blog{}
